@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143964941482",
+    "firebase_url": "https://year-review-fc8eb.firebaseio.com",
+    "project_id": "year-review-fc8eb",
+    "storage_bucket": "year-review-fc8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143964941482:android:c0008178d6698ff44e74d3",
+        "android_client_info": {
+          "package_name": "com.example.yearreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143964941482-205qkbgt01ljo632dbatntuo382gl0hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PQ33wcCIx-Q9fjE8K7-aaCWmdX9wwoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143964941482-205qkbgt01ljo632dbatntuo382gl0hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
