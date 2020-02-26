@@ -1,4 +1,17 @@
 <resources>
-    <string name="app_name">Year Review</string>
-    <string name="Load">Load</string>
+    <string name="title">ADD Anime</string>
+    <string name="name">Name</string>
+    <string name="image">Image</string>
+    <string name="Rating">Rating</string>
+    <string name="Startdate">Startdate</string>
+    <string name="Startmonth">Startmonth</string>
+    <string name="Startyear">Startyear</string>
+    <string name="enddate">enddate</string>
+    <string name="endmonth">endmonth</string>
+    <string name="endyear">endyear</string>
+    <string name="episode">episode</string>
+    <string name="add">Add</string>
+    <string name="app_name">year review</string>
+
+
 </resources>

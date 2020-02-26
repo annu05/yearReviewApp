@@ -16,8 +16,7 @@ public class Anime {
 
     // constructors
     public Anime() {}
-    public Anime(int animeid, String animename, String animeImage,int animerating,int animestartdate,String animestartmonth,int animestartyear,int animeenddate,String animeendmonth,int animeendyear,int episode) {
-        this.animeID = animeid;
+    public Anime(String animename, String animeImage, int animerating, int animestartdate, String animestartmonth, int animestartyear, int animeenddate, String animeendmonth, int animeendyear, int episode) {
         this.animeName = animename;
         this.animeImage = animeImage;
         this.animerating = animerating;
